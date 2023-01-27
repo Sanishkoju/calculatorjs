@@ -79,8 +79,8 @@ form input#equal{
     }
     .calc form input{
         
-        width:70px;
-        height:70px;
+        width:72px;
+        height:72px;
         border-radius: 10px;
         background: transparent;
         font-size: 24px;
@@ -95,7 +95,7 @@ form input#equal{
         display: flex;
         width:100% ;
         justify-content: flex-end;
-        margin:20px 0 45px 0;
+        margin:20px 0 48px 0;
         padding:2px;
         
     
@@ -113,7 +113,7 @@ form input#equal{
         color:rgb(39, 167, 39);
     } 
     form input#equal{
-        width:155px;
+        width:165px;
     }
     
     
